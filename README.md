@@ -1,0 +1,2 @@
+# basic
+all basic projects
